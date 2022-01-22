@@ -9,7 +9,6 @@ Doorkeeper.configure do
 
   # This block will be called to check whether the resource owner is authenticated or not.
   resource_owner_from_credentials do
-    p User.find_by(email: params[:username])
     
     User.find_by(email: params[:username])
        &.authenticate(params[:password]) || nil

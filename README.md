@@ -17,6 +17,14 @@ https://www.monterail.com/blog/2014/oauth-implicit-grant-with-grape-doorkeeper-a
 
 https://doorkeeper.gitbook.io/guides/ruby-on-rails/getting-started
 
+https://github.com/doorkeeper-gem/doorkeeper/wiki/Testing-protected-controllers
+
+https://rubyyagi.com/rails-api-authentication-devise-doorkeeper/
+
+https://www.adrianprieto.com/10-easy-steps-to-connect-rails-with-angular-js/
+
+https://www.honeybadger.io/blog/beginners-guide-to-angular-js-rails/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
